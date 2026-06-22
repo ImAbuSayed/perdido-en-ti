@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Perdido en ti, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Perdido en ti, Vol. 2** (perdido-en-ti-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T23:28:14.599478 | `v1` | `56e11b807451ff76f2e3fb0c8d21a685eddc71a5e6745ed3d5beaefd8a5905e0` | `575811aa49c7d0b119500af79bdbb2fc35c5013f130b61a44c90c940f1257acf` | `2026-06-22_perdido-en-ti-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

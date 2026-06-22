@@ -1,4 +1,4 @@
-# Perdido en ti
+# Perdido en ti, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Perdido en ti |
+| **Title** | Perdido en ti, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/perdido-en-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Perdido en ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perdido-en-ti/) |
+| **Get License** | [Request Licensing for Perdido en ti, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/perdido-en-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, yo me pierdo en tu mirada
+> Tonight you got me acting crazy, de la nada
+> Tu cuerpo y el mío, fuego en la madrugada
+> Estoy perdido en ti, no me importa más nada
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `56e11b807451ff76f2e3fb0c8d21a685eddc71a5e6745ed3d5beaefd8a5905e0` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
